@@ -1,0 +1,6 @@
+@ReactNativeSI_HostAddress = http://localhost:5270
+
+GET {{ReactNativeSI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
